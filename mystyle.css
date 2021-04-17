@@ -3,9 +3,6 @@ body {
 height: 3050px;
 width: 3500px;
 
-font-family: Futura, Impact, Helvetica, sans-serif;
-font-size: 200%;
-
 background-image:
 
 url('https://i.imgur.com/9Wsf8KX.png'),
@@ -45,9 +42,9 @@ url('https://i.imgur.com/4hhhHOM.jpg');
 
  background-repeat: no-repeat;
 
-  background-attachment: scroll;
+ background-attachment: scroll;
 
-  background-position:
+ background-position:
 
 200px 400px,
 700px 500px,
@@ -144,7 +141,7 @@ width: 150px;
 
 }
 
-#genderless {
+div.genderless {
 	position: relative;
 	bottom: -4210;
   	right: -150;
