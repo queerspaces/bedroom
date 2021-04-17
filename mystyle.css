@@ -1,6 +1,6 @@
 body {
 
-width: 3700px;
+width: 3900px;
 height: 3050px;
 
 
@@ -135,7 +135,7 @@ width: 100px;
 div.gender {
 position: absolute;
 top: 1920px;
-left: 2475px;
+left: 2375px;
 font-size: 30px;
 color: #ff00ff;
 width: 150px;
@@ -145,7 +145,7 @@ width: 150px;
 div.genderless {
   position: relative;
   top: 2720px;
-  left: 2575px;
+  left: 2975px;
   font-size: 30px;
 width: 250px;
 
