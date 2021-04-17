@@ -145,8 +145,8 @@ width: 150px;
 }
 
 #genderless {
-	position: absolute;
-	top: -2900px;
-	left: -2800px;
-	font-size: 30px;
+	position: relative;
+	bottom: -4210;
+  	right: -150;
+  	font-size: 30px;
 }
