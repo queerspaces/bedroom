@@ -142,8 +142,9 @@ width: 150px;
 }
 
 div.genderless {
-	position: relative;
-	bottom: -4210;
-  	right: -150;
-  	font-size: 30px;
+  position: relative;
+  top: 2920px;
+  left: 2575px;
+  font-size: 30px;
+
 }
