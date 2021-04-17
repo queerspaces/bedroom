@@ -134,7 +134,7 @@ width: 100px;
 div.gender {
 position: absolute;
 top: 1920px;
-left: 2575px;
+left: 2475px;
 font-size: 30px;
 color: #ff00ff;
 width: 150px;
@@ -143,8 +143,9 @@ width: 150px;
 
 div.genderless {
   position: relative;
-  top: 2920px;
+  top: 2720px;
   left: 2575px;
   font-size: 30px;
+width: 250px;
 
 }
