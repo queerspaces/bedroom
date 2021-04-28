@@ -3,50 +3,6 @@ body {
 width: 3500px;
 height: 3150px;
 
-
-background-image:
-
-url('https://i.imgur.com/9Wsf8KX.png'),
-url('https://i.imgur.com/pYEVgEg.png'),
-url('https://i.imgur.com/NSVNcvx.png'),
-url('https://i.imgur.com/nwa1T1w.png'),
-
-url('https://i.imgur.com/kaBaN6b.png'),
-url('https://i.imgur.com/o1AHba9.png'),
-url('https://i.imgur.com/MCICBAn.png'),
-url('https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif'),
-url('https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif'),
-url('https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif'),
-url('https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif'),
-url('https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif'),
-url('https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif'),
-url('https://media.giphy.com/media/wVRqJVzBeaHtu/giphy.gif'),
-url('https://media.giphy.com/media/wVRqJVzBeaHtu/giphy.gif'),
-url('https://media.giphy.com/media/wVRqJVzBeaHtu/giphy.gif'),
-url('https://media.giphy.com/media/wVRqJVzBeaHtu/giphy.gif'),
-url('https://media.giphy.com/media/wVRqJVzBeaHtu/giphy.gif'),
-url('https://i.imgur.com/qHerakD.jpg'),
-url('https://i.imgur.com/fI2wat2.jpg'),
-url('https://i.imgur.com/LpL9LZs.jpg'),
-url('https://i.imgur.com/TNoU6X3.png?1'),
-url('https://media.giphy.com/media/LkquyMinE7n6Mq88QJ/giphy.gif'),
-url('https://media.giphy.com/media/Pskh7oxadp7MY/giphy.gif'),
-url('https://media.giphy.com/media/sSQPD5Hs7x5qxsZB31/giphy.gif'),
-url('https://i.imgur.com/mwHUyd1.png'),
-url('https://i.imgur.com/hE31Kd3.png'),
-url('https://i.imgur.com/ANAeXvu.png'),
-url('https://i.imgur.com/4oDmxFT.jpg'),
-url('https://i.imgur.com/NkazEeU.jpg?1'),
-url('https://i.imgur.com/5QgeZER.jpg'),
-url('https://i.imgur.com/haEoPyq.jpg'),
-url('https://i.imgur.com/4hhhHOM.jpg');
-
- background-repeat: no-repeat;
-body {
-
-width: 3500px;
-height: 3150px;
-
 font-family: sans-serif;
 
 background-image:
@@ -268,5 +224,6 @@ div.music{
   top: 300px;
   left: 20px;
 }
+
 
  
